@@ -1,6 +1,6 @@
 # 🎟️ Event Management REST API
 
-Deployed Version :
+
 A full-featured Event Management backend built with **Node.js**, **Express**, and **PostgreSQL**. This API allows you to:
 
 ✅ Create events with capacity limits  
