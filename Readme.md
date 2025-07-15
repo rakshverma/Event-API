@@ -208,23 +208,6 @@ x-api-key: my-super-secret
 
 All routes are prefixed with `/api`
 
-### 📌 Users
-
-✅ **Create User**
-
-```bash
-POST /api/users
-```
-
-**Body:**
-
-```json
-{
-  "name": "Alice",
-  "email": "alice@example.com"
-}
-```
-
 ### 📌 Events
 
 ✅ **Create Event**
